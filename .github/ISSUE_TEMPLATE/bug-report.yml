@@ -43,8 +43,8 @@ body:
       - Wind Chimes
       - Wrenchable Rooftiles
       - XMasTime Continued
-    validations:
-      required: false
+  validations:
+    required: true
 - type: dropdown
   id: playmode
   attributes:
