@@ -2,7 +2,7 @@ name: Bugreport
 description: You can report a bug or issue here.  Before starting, it is worth searching to see if your issue has already been reported. Search both Open *and* Closed issues
 title: "[Bug]: "
 labels: ["status: new"]
-asignees:
+assignees:
   - xXx_Ape_xXx
 body:
   - type: input
