@@ -44,7 +44,7 @@ body:
       - Wrenchable Rooftiles
       - XMasTime Continued
     validations:
-      required: true
+      required: false
 - type: dropdown
   id: playmode
   attributes:
