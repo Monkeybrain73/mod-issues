@@ -4,6 +4,7 @@ title: "[Bug]: "
 labels: ["status: new"]
 assignees:
   - xXx_Ape_xXx
+
 body:
 - type: input
   id: shortdescription
