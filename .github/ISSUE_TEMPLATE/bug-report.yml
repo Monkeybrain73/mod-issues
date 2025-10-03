@@ -31,6 +31,7 @@ body:
     label: Mod
     description: Select the mod you have issues with.
     options:
+      - Natual Fertilizer
       - Arrow Barrels
       - Butterfly Displays
       - Custom Flowerpots
